@@ -33,7 +33,7 @@ Você precisará do pip (gerenciador de pacotes do Python) para instalar o Pygam
 Passo 1: Clone o repositório
 
 git clone https://github.com/unzendake/GameDevelopment_Pygame
-cd SEU_REPOSITORIO
+
 
 Passo 2: Crie um Ambiente Virtual (Recomendado)
 Isso mantém as dependências do projeto isoladas.
